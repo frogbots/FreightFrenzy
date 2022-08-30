@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openftc:ftc-opmode-tuner-common:0.22@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cae50f1a5ea854ba0deecbad69a232fc/jetified-ftc-opmode-tuner-common-0.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cae50f1a5ea854ba0deecbad69a232fc/jetified-ftc-opmode-tuner-common-0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cae50f1a5ea854ba0deecbad69a232fc/jetified-ftc-opmode-tuner-common-0.22/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openftc/ftc-opmode-tuner-common/0.22/348d021e9628de849c70849221a63be5fba041af/ftc-opmode-tuner-common-0.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openftc/ftc-opmode-tuner-common/0.22/5507bb05fb7667f500e0df1099d10b6a946e0f13/ftc-opmode-tuner-common-0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
