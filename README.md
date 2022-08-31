@@ -1,3 +1,3 @@
 # FreightFrenzy
 
-# 2021-2022 Season
+2021-2022 Season
